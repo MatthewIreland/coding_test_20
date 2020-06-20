@@ -37,7 +37,8 @@ This repository contains two implementations of the `IFourierTransform` interfac
 Transform of a vector of complex numbers, but uses a different algorithm to do so.
 
 Write tests for `DiscreteFourierTransform` and `FastFourierTransform`. Your solution should 
-include unit tests, but should not be limited to only including unit tests.
+include unit tests, but should not be limited to only including unit tests. You should again
+use the GoogleTest framework to implement all of your tests.
 
 Again, although the class was not written with any bugs intentionally inserted, report any bugs
 that you find and propose fixes for these bugs.
